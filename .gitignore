@@ -68,3 +68,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 >>>>>>> c40af97 (first commit)
+# environment
+.env
